@@ -1,2 +1,2 @@
 # tech-portfolio
-My tech career portfolio
+My tech portfolio
